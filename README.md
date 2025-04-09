@@ -1,4 +1,4 @@
-# Telegram Bot Starter
+# Solana Market Maker Bot
 
 This is a starter project for creating a Telegram bot using the Telegraf library. The project structure is organized as follows:
 
